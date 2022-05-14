@@ -2,15 +2,15 @@
 
 ##
 
-- 🌱 Computer Science - UEMS/MS <h5>
-- 🎉 17y <h5>
-- 💬 E-mail: volobueffgustavo@gmail.com <h5>
+- 🌱 Computer Science - UEMS/MS
+- 🎉 17y 
+- 💬 E-mail: volobueffgustavo@gmail.com 
 
 <a href="https://github.com/gustavokv/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavokv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavokv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/gustavokv/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokv&layout=compact&langs_count=7&theme=dark"/>
 </a>
   
 <div style="display: inline_block"><br>
