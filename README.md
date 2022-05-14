@@ -2,9 +2,9 @@
 
 ##
 
-- 🌱 Computer Science - UEMS/MS
-- 🎉 17y
-- 💬 E-mail: volobueffgustavo@gmail.com
+- 🌱 Computer Science - UEMS/MS <h5>
+- 🎉 17y <h5>
+- 💬 E-mail: volobueffgustavo@gmail.com <h5>
 
 <a href="https://github.com/gustavokv/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavokv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
