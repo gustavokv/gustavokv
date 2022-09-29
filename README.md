@@ -1,7 +1,5 @@
 ## Olá! Sou o Gustavo Volobueff 👋
 
-##
-
 - 🌱 Computer Science - UEMS/MS
 - 🎉 18y 
 - 💬 E-mail: volobueffgustavo@gmail.com 
