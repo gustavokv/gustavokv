@@ -1,4 +1,4 @@
-## Olá! Sou o Gustavo Volobueff 👋
+## Olá! Meu nome é Gustavo Volobueff 👋
 
 - 🌱 Computer Science - UEMS/MS
 - 🎉 18y 
