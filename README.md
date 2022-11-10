@@ -6,6 +6,8 @@
 
 -> 💬 E-mail: volobueffgustavo@gmail.com 
 
+-> "The present is theirs; the future, for which I really worked, is mine."  -Nikola Tesla
+
 
 <a href="https://github.com/gustavokv/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavokv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
