@@ -6,7 +6,7 @@
 
 -> 💬 E-mail: volobueffgustavo@gmail.com 
 
--> 🧠 "The present is theirs; the future, for which I really worked, is mine.", Nikola Tesla.
+-> 🧠 "The present is theirs, the future, for which I really worked, is mine." -Nikola Tesla.
 
 
 <a href="https://github.com/gustavokv/github-readme-stats">
