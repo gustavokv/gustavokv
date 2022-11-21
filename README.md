@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Volobueff</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" src="https://giphy.com/embed/gf675azxNAz2zDQ1vD" width="480" height="425" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD">via GIPHY</a></p>">
 
 - 🌱 I’m currently learning **Java, JavaScript, CSS, HTML**
 
