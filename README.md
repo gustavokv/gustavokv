@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Volobueff</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
 
-<img src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="300" height="180">
+<img src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="300" height="200">
 
 - 🌱 I’m currently learning **Java, JavaScript, CSS, HTML**
 
