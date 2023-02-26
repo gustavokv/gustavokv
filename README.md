@@ -1,5 +1,5 @@
 # 💫 About Me:
-·🌱 I'm currently learning C and C++<br>·📪 How to reach me volobueffgustavo@gmail.com<br>
+🌱 I'm currently learning C and C++<br>📪 How to reach me volobueffgustavo@gmail.com<br>
 
 
 ## 🌐 Socials:
