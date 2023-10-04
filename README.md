@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning OpenGL<br>📪 How to reach me volobueffgustavo@gmail.com
+🌱 I'm currently learning Python and OpenGL<br>📪 How to reach me volobueffgustavo@gmail.com
 
 
 ## 🌐 Socials:
