@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning OpenGL<br>📪 How to reach me volobueffgustavo@gmail.com
+🌱 I'm currently learning JavaScript and Node.js<br>📪 How to reach me volobueffgustavo@gmail.com
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </br>
