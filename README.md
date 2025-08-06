@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gustavokv&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokv&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gustavokv&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokv&layout=compact&theme=dark&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
